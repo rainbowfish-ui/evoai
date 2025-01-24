@@ -11,7 +11,7 @@ const HeroBackground = () => {
       xmlns="http://www.w3.org/2000/svg"
       className="absolute top-0 -z-10 -mt-20"
     >
-      <g clip-path="url(#clip0_3_3)">
+      <g clipPath="url(#clip0_3_3)">
         <line
           y1="199.5"
           x2="1300"
@@ -148,9 +148,9 @@ const HeroBackground = () => {
           y2="200.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.02" stop-color="white" />
-          <stop offset="0.355" stop-color="#D9D9D9" />
-          <stop offset="1" stop-color="white" />
+          <stop offset="0.02" stopColor="white" />
+          <stop offset="0.355" stopColor="#D9D9D9" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_3_3"
@@ -160,9 +160,9 @@ const HeroBackground = () => {
           y2="300.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.02" stop-color="white" />
-          <stop offset="0.565" stop-color="#D9D9D9" />
-          <stop offset="1" stop-color="white" />
+          <stop offset="0.02" stopColor="white" />
+          <stop offset="0.565" stopColor="#D9D9D9" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_3_3"
@@ -172,9 +172,9 @@ const HeroBackground = () => {
           y2="400.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.02" stop-color="white" />
-          <stop offset="0.565" stop-color="#D9D9D9" />
-          <stop offset="1" stop-color="white" />
+          <stop offset="0.02" stopColor="white" />
+          <stop offset="0.565" stopColor="#D9D9D9" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_3_3"
@@ -184,9 +184,9 @@ const HeroBackground = () => {
           y2="500.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F2F1F1" />
-          <stop offset="0.26" stop-color="#D9D9D9" />
-          <stop offset="1" stop-color="white" />
+          <stop stopColor="#F2F1F1" />
+          <stop offset="0.26" stopColor="#D9D9D9" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_3_3"
@@ -196,9 +196,9 @@ const HeroBackground = () => {
           y2="600.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.165" stop-color="#F2F1F1" />
-          <stop offset="0.565" stop-color="#D9D9D9" />
-          <stop offset="1" stop-color="white" />
+          <stop offset="0.165" stopColor="#F2F1F1" />
+          <stop offset="0.565" stopColor="#D9D9D9" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_3_3"
@@ -208,9 +208,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.444002" stop-color="#D9D9D9" />
-          <stop offset="0.627571" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.444002" stopColor="#D9D9D9" />
+          <stop offset="0.627571" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint6_linear_3_3"
@@ -220,9 +220,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.380773" stop-color="#D9D9D9" />
-          <stop offset="0.63369" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.380773" stopColor="#D9D9D9" />
+          <stop offset="0.63369" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint7_linear_3_3"
@@ -232,9 +232,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.389523" stop-color="#D9D9D9" />
-          <stop offset="0.667011" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.389523" stopColor="#D9D9D9" />
+          <stop offset="0.667011" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint8_linear_3_3"
@@ -244,9 +244,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.23276" stop-color="#D9D9D9" />
-          <stop offset="0.74269" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.23276" stopColor="#D9D9D9" />
+          <stop offset="0.74269" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint9_linear_3_3"
@@ -256,9 +256,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.51" stop-color="#D9D9D9" />
-          <stop offset="0.704202" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.51" stopColor="#D9D9D9" />
+          <stop offset="0.704202" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint10_linear_3_3"
@@ -268,9 +268,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.45423" stop-color="#D9D9D9" />
-          <stop offset="0.732654" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.45423" stopColor="#D9D9D9" />
+          <stop offset="0.732654" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint11_linear_3_3"
@@ -280,9 +280,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.360773" stop-color="#D9D9D9" />
-          <stop offset="0.724343" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.360773" stopColor="#D9D9D9" />
+          <stop offset="0.724343" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint12_linear_3_3"
@@ -292,9 +292,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.365114" stop-color="#D9D9D9" />
-          <stop offset="0.701365" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.365114" stopColor="#D9D9D9" />
+          <stop offset="0.701365" stopColor="white" />
         </linearGradient>
         <linearGradient
           id="paint13_linear_3_3"
@@ -304,9 +304,9 @@ const HeroBackground = () => {
           y2="1024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.005" stop-color="white" />
-          <stop offset="0.316176" stop-color="#D9D9D9" />
-          <stop offset="0.690315" stop-color="white" />
+          <stop offset="0.005" stopColor="white" />
+          <stop offset="0.316176" stopColor="#D9D9D9" />
+          <stop offset="0.690315" stopColor="white" />
         </linearGradient>
       </defs>
     </svg>
