@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dashed-vertical-border {
+  border-top: none;
+  border-left: 1.5px solid transparent;
+  border-right: 1.5px solid transparent;
+  border-image: repeating-linear-gradient(
+      to bottom,
+      rgb(164, 164, 164) 0px,
+      rgb(164, 164, 164) 10px,
+      transparent 10px,
+      transparent 30px
+    )
+    1;
+}
+
+.dashed-bottom-border {
+  border-bottom: 1.5px solid transparent;
+  border-image: repeating-linear-gradient(
+      to right,
+      rgb(164, 164, 164) 0px,
+      rgb(164, 164, 164) 10px,
+      transparent 10px,
+      transparent 24px
+    )
+    1;
+}
