@@ -21,7 +21,7 @@ const MeetingNotes = () => {
           </p>
         </div>
         <div className="size-full flex items-center justify-center">
-          <div className="w-[90%] h-[26rem] rounded-2xl bg-white p-2 flex items-center justify-between gap-4 relative">
+          <div className="w-[90%] h-[26rem] rounded-2xl bg-white p-2 flex items-center justify-between gap-4 relative text-xs">
             <div className="absolute -left-6 top-0 w-72 h-40 rounded-lg bg-white shadow-lg -rotate-12 z-10 border p-2 text-[#4b4b4b]">
               <p className="text-base font-semibold text-start">
                 Speaker insights
@@ -30,14 +30,16 @@ const MeetingNotes = () => {
                 <p>show speakers on video timeline</p>
                 <input type="checkbox" />
               </div>
-              <div className="text-xs mt-1 flex flex-wrap gap-2">
+              <div className="text-[0.5rem] mt-1 flex flex-wrap gap-2">
                 <div className="size-fit p-1 bg-[#eaeaea] rounded-full flex items-center gap-1 pr-2">
                   <span className="p-1 rounded-full bg-[#f5f5f5]">WPM</span>
                   160
                 </div>
                 <div className="size-fit p-1 bg-[#eaeaea] rounded-full flex items-center gap-1 pr-2">
-                  <span className="p-1 rounded-full bg-[#f5f5f5]">80%</span>
-                  Talk time
+                  <span className="p-1 rounded-full bg-[#f5f5f5]">
+                    Talk time
+                  </span>
+                  80%
                 </div>
                 <div className="size-fit p-1 bg-[#eaeaea] rounded-full flex items-center gap-1 pr-2">
                   <span className="p-1 rounded-full bg-[#f5f5f5]">Fillers</span>
